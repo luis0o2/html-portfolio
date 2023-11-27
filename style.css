@@ -1,0 +1,32 @@
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    color: white;
+  }
+  .main{
+    flex: 1;
+  }
+  h1{
+    font-size: 80px;
+    display: inline-block;
+    position: relative;
+    left: 100px;
+  }
+  img{
+    width: 300px;
+    border-radius: 50%;
+    border: 5px solid white;
+    position: absolute;
+    left: 650px;
+    top: 90px;
+  }
+  .developer{
+    color:blueviolet;
+  }
+  .main{
+    position: relative;
+    left: 105px;
+    top: -50px;
+  }
